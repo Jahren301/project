@@ -1,0 +1,433 @@
+.registration-container{
+   
+    font-family: Arial black;
+    font-size:40px; 
+    text-align:center;
+    color: white;
+    opacity: 0.9;
+   
+}   
+
+ .h2{
+  font-size:9pt;
+    color:white;
+    font-family: Arial;
+    margin-bottom:50px;
+    margin-top:50px;
+    position:relative;
+   
+ }
+ 
+/* .h3{
+  margin-right: 30%;
+  margin-left: 30%;
+} */
+ 
+ 
+
+ 
+ /* .transparent{
+  position:relative;
+  background-color: hsla(0, 0%, 10%, 0.1);
+  border: 2px solid var(--white-color);
+  margin-inline: 2rem, 3.0rem ;
+  padding: 15%;
+  backdrop-filter: blur(5px);
+  height: 10%; 
+ } */
+
+ .label{
+  color: black;
+  opacity: 0.3;
+  border-radius: 10px; 
+ }
+
+ .txt{
+    font-size:14pt;
+    color:white;
+    padding:5px; 
+    text-align:center; 
+   
+    
+ }
+
+ .submit{
+    background-color: white ;
+    opacity: 0.3;
+    color: black;
+    padding:15px;
+    border-radius: 10px;
+    border:none;
+   position:center;
+   margin-bottom:50px;
+ }
+ 
+  .bg{  /*in registration */
+    background-image:url(back.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100vh;
+    
+ }
+
+ body{
+   background-image:url(dark.jpg);
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin:0;
+    padding:0;
+    opacity: 10px; 
+ }
+
+ .translong{
+  background-color: hsla(0, 0%, 10%, 0.1);
+  border: 2px solid var(--white-color);
+  margin-inline: 1rem, .0rem ;
+  padding: 3%;
+  backdrop-filter: blur(5px);
+  height: 9%;
+
+ }
+  .containlong{
+    margin-top: 15%;
+    margin-bottom: 20%;
+    font-size:9pt;
+    color:white;
+  }
+
+ .jellal{
+   background-image: url(jellal.gif);
+   height:518px;
+   width:1000px;
+   background-size: cover;
+   margin-right: 290px;
+   margin-left: 265px;
+   position:relative;
+   border-radius:1rem;
+   
+ }
+ 
+ .mika3{
+  background-image: url(mikasa.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.mada3{
+  background-image: url(madara.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.ten2{
+  background-image: url(tengen.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.koji{
+  background-image: url(koji.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.erwin{
+  background-image: url(erwin.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.goku{
+  background-image: url(goku.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem; 
+}
+
+.obito{
+  background-image: url(obito.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.megumi{
+  background-image: url(megumi.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.baku{
+  background-image: url(bakugo.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.garuo{
+  background-image: url(garou.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.aizen{
+  background-image: url(aizen.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.hachiman{
+  background-image: url(hachi.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.guy{
+  background-image: url(guy.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.kuzen{
+  background-image: url(kuzen.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.oika{
+  background-image: url(oikawa.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.dofi{
+  background-image: url(doflamingo.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.uraraka{
+  background-image: url(uraraka.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.allm{
+  background-image: url(might.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.sakura{
+  background-image: url(sakura.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.makishima{
+  background-image: url(shima.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.jinbe{
+  background-image: url(jinbe.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.doppo{
+  background-image: url(doppo.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+.rico{
+  background-image: url(rico.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.natsu{
+  background-image: url(natsu.gif);
+  height:518px;
+  width:1000px;
+  background-size: cover;
+  margin-right: 290px;
+  margin-left: 265px;
+  position:relative;
+  border-radius:1rem;
+  
+}
+
+.border{ /* black border for answer.php sentence */
+  background-color: hsla(0, 0%, 0%, 0.39);
+  border: 2px solid var(--white-color);
+  backdrop-filter: blur(5px);
+  margin-left: 41%;
+  margin-right: 41%; 
+  padding: 0.5%;
+  border-radius: 50px;
+} 
+
+.answertxt{
+  color: white;
+  font-size: 28;
+  font-family: arial black;
+  text-align:center ;
+ padding:17%
+}
+
+.answer{
+  background-image:url(back.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width:100%;
+  height:100vh;
+  position:relative;
+
+}
+
+.submitans{
+background-color: hsla(0, 1%, 15%, 0.5);
+padding:20px;
+margin-left: 180px;
+color:white;
+border-radius: 10px;
+
+}
